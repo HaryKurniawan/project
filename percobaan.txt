@@ -4,4 +4,4 @@ Project
 - Backend
 - HTML
 - CSS
-- Java Script
+- JS
