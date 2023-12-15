@@ -2,3 +2,6 @@ Project
 - UI/UX
 - Frontend
 - Backend
+- HTML
+- CSS
+- Java Script
